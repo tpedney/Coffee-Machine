@@ -1,6 +1,6 @@
 import math
 
-class Cof_mac:
+class CoffeeMachine:
     def __init__(self):
         self.supplies = {
             "water":400,
@@ -95,5 +95,5 @@ class Cof_mac:
         {self.supplies['cups']} disposable cups
         ${self.supplies['money']} of money''')                                             
 
-x = Cof_mac()
-x.main()
+new_machine = CoffeeMachine()
+new_machine.main()
