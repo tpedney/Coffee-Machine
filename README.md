@@ -1,0 +1,1 @@
+Loops through an imaginary scenario in which the user can "purchase" a coffee, if there is enough supplies left in our imaginary machine. If not, the user can choose to add more supplies, check the level of supplies, and also remove money from the machine.
